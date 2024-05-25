@@ -1,0 +1,185 @@
+[
+    {
+        "id": 1,
+        "name": "Dadang Gese",
+        "major": "Teknik Informatika",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 2,
+        "name": "Alif Gowes",
+        "major": "Teknik Informatika",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 3,
+        "name": "Bruno Mars",
+        "major": "Teknik Informatika",
+        "year_of_admission": 2023,
+        "status": "Tidak Lolos"
+    },
+    {
+        "id": 4,
+        "name": "Ujang Koswaea",
+        "major": "Teknik Informatika",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 5,
+        "name": "Subhan Lukman",
+        "major": "Teknik Informatika",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 6,
+        "name": "Budi",
+        "major": "Teknik Informatika",
+        "year_of_admission": 2023,
+        "status": "Tidak Lolos"
+    },
+    {
+        "id": 7,
+        "name": "Aurel Simanjuntak",
+        "major": "Sistem Informasi",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 8,
+        "name": "Hilda Roam",
+        "major": "Sistem Informasi",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 9,
+        "name": "Dadang Koswara",
+        "major": "Sistem Informasi",
+        "year_of_admission": 2023,
+        "status": "Tidak Lolos"
+    },
+    {
+        "id": 10,
+        "name": "Jonathan Monkey",
+        "major": "Sistem Informasi",
+        "year_of_admission": 2023,
+        "status": "Tidak Lolos"
+    },
+    {
+        "id": 11,
+        "name": "Miya Gold Line",
+        "major": "Sistem Informasi",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 12,
+        "name": "Saber Bar",
+        "major": "Sistem Informasi",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 13,
+        "name": "Adang Jaya",
+        "major": "Teknik Sipil",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 14,
+        "name": "Semen Tiga Roda",
+        "major": "Teknik Sipil",
+        "year_of_admission": 2023,
+        "status": "Tidak Lolos"
+    },
+    {
+        "id": 15,
+        "name": "Yanti Saja",
+        "major": "Teknik Sipil",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 16,
+        "name": "Suparman",
+        "major": "Teknik Sipil",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 17,
+        "name": "Yayat",
+        "major": "Teknik Sipil",
+        "year_of_admission": 2023,
+        "status": "Tidak Lolos"
+    },
+    {
+        "id": 18,
+        "name": "Djarot Slebew",
+        "major": "Administrasi Bisnis",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 19,
+        "name": "Aurora Ice",
+        "major": "Administrasi Bisnis",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 20,
+        "name": "Irithel Line",
+        "major": "Administrasi Bisnis",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 21,
+        "name": "Minerva Cool",
+        "major": "Administrasi Bisnis",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 22,
+        "name": "Kevin Sanjaya",
+        "major": "Fisika",
+        "year_of_admission": 2023,
+        "status": "Tidak Lolos"
+    },
+    {
+        "id": 23,
+        "name": "Batman",
+        "major": "Fisika",
+        "year_of_admission": 2023,
+        "status": "Tidak Lolos"
+    },
+    {
+        "id": 22,
+        "name": "Dani Pedrosa",
+        "major": "Fisika",
+        "year_of_admission": 2023,
+        "status": "Tidak Lolos"
+    },
+    {
+        "id": 22,
+        "name": "Virla Febrianti",
+        "major": "Fisika",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    },
+    {
+        "id": 22,
+        "name": "Nayaka",
+        "major": "Fisika",
+        "year_of_admission": 2023,
+        "status": "Lolos"
+    }
+   
+]
