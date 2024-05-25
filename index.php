@@ -1,15 +1,4 @@
 
-<?php
-session_start();
-
-// Periksa apakah pengguna sudah login
-if (!isset($_SESSION['access_token']) || empty($_SESSION['access_token'])) {
-    // Jika pengguna belum login, alihkan ke halaman login
-    header("Location: login.php");
-    exit;
-}
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,21 +51,6 @@ if (!isset($_SESSION['access_token']) || empty($_SESSION['access_token'])) {
                         ?>
                     </div>
                 </li>
-                <?php
-                // Periksa apakah pengguna sudah login
-                if (isset($_SESSION['access_token']) && !empty($_SESSION['access_token'])) {
-                    // Jika pengguna sudah login, tampilkan informasi pengguna dan tombol logout
-                    $userInfo = $_SESSION['user_info'];
-                    ?>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <i class="fas fa-user"></i> Selamat datang, <?php echo $userInfo['name']; ?>
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="logout.php"><i class="fas fa-sign-out-alt"></i> Logout</a>
-                        </div>
-                    </li>
-                    <?php
                 }
                 ?>
             </ul>
